@@ -20,7 +20,7 @@ Abre `index.html` en tu navegador.
 HTML5, CSS3, JavaScript.
 
 📜 Uso del Proyecto
-Escribe un nombre en el campo de entrada.
-Presiona el botón "Añadir" para agregarlo a la lista.
-Cuando todos los nombres estén ingresados, presiona "Sortear amigo".
-Se mostrará el amigo secreto seleccionado aleatoriamente. 🎉
+1. Escribe un nombre en el campo de entrada.
+2. Presiona el botón "Añadir" para agregarlo a la lista.
+3. Cuando todos los nombres estén ingresados, presiona "Sortear amigo".
+4. Se mostrará el amigo secreto seleccionado aleatoriamente. 🎉
